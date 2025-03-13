@@ -3,7 +3,7 @@
 import {AnimatePresence, motion} from "framer-motion"
 import {ChevronLeft, ChevronRight} from "lucide-react"
 import {useState, useEffect} from "react"
-import VazirImag from "../assets/vazir.jpg"
+import VazirImag from "../assets/Vazir.jpg"
 import VazirImag2 from "../assets/vazir2.jpg"
 import VazirImag3 from "../assets/vazir3.jpg"
 import yangiyil from "../assets/yangiyil.jpg"
