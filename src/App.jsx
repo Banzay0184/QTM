@@ -15,6 +15,7 @@ import FAQ from "./components/FAQ"
 import Contact from "./components/Contact"
 import Footer from "./components/Footer"
 import ScrollToTop from "./components/ScrollToTop"
+import HistoryWithPhotos from "@/components/HistoryWithPhotos.jsx";
 import "./App.css"
 
 function App() {
@@ -51,6 +52,7 @@ function App() {
             <Hero/>
             <Statistics/>
             <Achievements/>
+            <HistoryWithPhotos/>
             <Courses/>
             <Teachers/>
             <Timeline/>

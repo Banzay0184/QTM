@@ -40,7 +40,7 @@ const Branches = () => {
             name: "Uchinchi filial",
             address: "Pridaskir 12A",
             landmark: "11-poliklinika",
-            phone: "+998 90 008 44 33",
+            phone: "+998 90 080 44 33",
             hours: "Dush-Sham: 8:00 - 22:00",
             mapEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3069.012345678901!2d64.4323871!3d39.748573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDQ0JzU0LjkiTiA2NMKwMjYnMDUuOSJF!5e0!3m2!1sen!2s!4v1610000000000",
             mapLink: "https://www.google.com/maps/place/39%C2%B044'54.9%22N+64%C2%B026'05.9%22E/@39.748573,64.4323871,17z",

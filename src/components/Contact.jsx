@@ -57,7 +57,7 @@ const Contact = () => {
                             <a href="tel:+998948384433">+998 94 838 44 33</a>
                         </p>
                         <p className="text-gray-600 text-center hover:text-[#FF0000]">
-                            <a href="tel:+998900084433">+998 90 008 44 33</a>
+                            <a href="tel:+998900804433">+998 90 080 44 33</a>
                         </p>
                     </motion.div>
 
@@ -140,9 +140,9 @@ const Contact = () => {
                     <h3 className="text-2xl font-bold text-primary mb-6">Bizni kuzating</h3>
                     <div className="flex justify-center gap-2 mb-8">
                         {[
-                            {icon: "facebook", href: "#", label: "Facebook sahifamiz"},
-                            {icon: "instagram", href: "#", label: "Instagram sahifamiz"},
-                            {icon: "telegram", href: "https://t.me/+998945964433", label: "Telegram sahifamiz"},
+                            {icon: "facebook", href: "", label: "Facebook sahifamiz"},
+                            {icon: "instagram", href: "https://www.instagram.com/qorakol_tayyorlov?igsh=MXd5cnlxcXlvMXR4bw==", label: "Instagram sahifamiz"},
+                            {icon: "telegram", href: "https://t.me/qorakol_tayyorlov", label: "Telegram sahifamiz"},
                         ].map((social, index) => (
                             <motion.a
                                 key={index}

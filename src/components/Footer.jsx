@@ -93,7 +93,7 @@ const Footer = () => {
               <li className="text-white/80">Alpomish 25/4, Buxoro shahri</li>
               <li className="text-white/80">+998 94 596 44 33</li>
               <li className="text-white/80">+998 94 838 44 33</li>
-              <li className="text-white/80">+998 90 008 44 33</li>
+              <li className="text-white/80">+998 90 080 44 33</li>
             </ul>
           </motion.div>
         </div>

@@ -6,6 +6,8 @@ import {useState, useEffect} from "react"
 import certificate1 from "../assets/certificate1.jpg"
 import certificate2 from "../assets/certificate2.jpg"
 import certificate3 from "../assets/certificate3.jpg"
+import certificate4 from "../assets/certificate4.jpg"
+
 
 const Achievements = () => {
     const achievements = [
@@ -30,6 +32,8 @@ const Achievements = () => {
         {src: certificate1, alt: "Olimpiada sertifikati"},
         {src: certificate2, alt: "Davlat universiteti sertifikati"},
         {src: certificate3, alt: "Xalqaro sertifikat"},
+        {src: certificate4, alt: "Xalqaro sertifikat"},
+
     ]
 
     const preparationItems = [
