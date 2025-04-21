@@ -57,7 +57,7 @@ const Contact = () => {
                             <a href="tel:+998948384433">+998 94 838 44 33</a>
                         </p>
                         <p className="text-gray-600 text-center hover:text-[#FF0000]">
-                            <a href="tel:+998900804433">+998 90 080 44 33</a>
+                            <a href="tel:+998900834433">+998 90 083 44 33</a>
                         </p>
                     </motion.div>
 
